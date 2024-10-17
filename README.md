@@ -9,8 +9,8 @@ I am a passionate autonomous systems student currently focusing on **self-drivin
 - 🚗 Autonomous Systems: ROS, OpenCV
 
 ## Featured Projects
-### [Project Name]()
-A brief description of the project, including its main features, technologies used, and any relevant links.
+### [Control-and-Simulate-Multiple-Robots-in-a-Warehouse-Scenario](https://github.com/Aynlai/Control-and-Simulate-Multiple-Robots-in-a-Warehouse-Scenario)
+This project simulates multiple differential drive robots in a warehouse using MATLAB's Simulink and Robotics System Toolbox. The robots perform path planning and avoid collisions. They are coordinated to work together for tasks like package delivery.
 
 ### [Another Project]()
 Another brief description that shows your contribution, the technologies you worked with, and the project's impact.
