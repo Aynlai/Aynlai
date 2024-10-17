@@ -1,7 +1,7 @@
 # Hello, I'm Yayan Li 👋
 
 ## About Me
-I am a passionate autonomous systems student currently focusing on self-driving car technologies. I love working on projects that involve machine learning, robotics, and automation.
+I am a passionate autonomous systems student currently focusing on **self-driving** technologies, **distributed system controls** and **path palnning**. I love working on projects that involve machine learning, robotics, and automation.
 
 ## Technologies and Skills
 - 🖥️ Programming: Python, C++, Matlab
