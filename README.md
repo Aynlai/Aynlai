@@ -16,5 +16,5 @@ This project simulates multiple differential drive robots in a warehouse using M
 This project focuses on developing and controlling a 12-DOF quadruped robot, DOGZILLA, using Raspberry Pi5 and ROS2. It covers SLAM navigation, motion control, and AI-based pattern recognition via OpenCV.
 
 ## Get in Touch
-- 📧 [Email](aynlai99@gmail.com)
-- 💼 [LinkedIn]()
+- 📧 [Email](aynlai99@gmail.com): aynlai99@gmail.com
+- 💼 [LinkedIn]() : Yayan Li
