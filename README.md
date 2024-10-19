@@ -6,7 +6,7 @@ I am a passionate autonomous systems student currently focusing on **self-drivin
 ## Technologies and Skills
 - 🖥️ Programming: Python, C++, Matlab
 - 🧠 Machine Learning: PyTorch
-- 🚗 Autonomous Systems: ROS, OpenCV
+- 🚗 Autonomous Systems: ROS, OpenCV, Simulink, Stateflow
 
 ## Featured Projects
 ### [Control-and-Simulate-Multiple-Robots-in-a-Warehouse-Scenario](https://github.com/Aynlai/Control-and-Simulate-Multiple-Robots-in-a-Warehouse-Scenario)
